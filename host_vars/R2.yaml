@@ -19,7 +19,7 @@ bgp:
     - 10.10.10.2/32
 
 interfaces:
-  mgmt: "192.168.1.242/24"
+  mgmt: "192.168.31.102/24"
   loopback: "10.10.10.2/32"
   switchports:
     swp1:
