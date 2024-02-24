@@ -8,4 +8,4 @@ R6
 
 [all:vars]
 ansible_user=cumulus
-ansible_password=CumulusLinux!
+ansible_password=ccie1234
